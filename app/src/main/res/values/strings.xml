@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rideapp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_location">Map</string>
+    <string name="facebook_app_id">841022159299660</string>
+</resources>

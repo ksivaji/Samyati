@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/login"
+            android:title="Login" />
+        <item
+            android:id="@+id/My_Location"
+            android:title="My Location" />
+        <item
+            android:id="@+id/find_path"
+            android:title="Find path" />
+        <item
+            android:id="@+id/navigation_item_3"
+            android:title="Offer Ride" />
+        <item
+            android:id="@+id/navigation_item_4"
+            android:title="Find Ride" />
+        <item
+            android:id="@+id/navigation_item_5"
+            android:title="Create Profile" />
+        <item
+            android:id="@+id/navigation_item_6"
+            android:title="Change Profile" />
+    </group>
+</menu>
